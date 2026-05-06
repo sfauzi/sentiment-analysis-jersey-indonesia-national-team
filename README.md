@@ -27,7 +27,7 @@ Hasil analisis dikategorikan ke dalam beberapa label sentimen:
 
 ## 🌐 Sumber Data
 
-Data dikumpulkan melalui proses crawling dari Twitter (X) menggunakan API resmi Twitter.
+Data dikumpulkan melalui proses crawling dari Twitter (X) menggunakan API Twitter Harvest.
 
 Contoh keyword pencarian:
 
@@ -41,7 +41,7 @@ Contoh keyword pencarian:
 
 1. **Data Crawling (Twitter API)**
 
-   * Menggunakan API Twitter untuk mengambil tweet berdasarkan keyword tertentu
+   * Menggunakan API Twitter Harvest untuk mengambil tweet berdasarkan keyword tertentu
    * Membutuhkan autentikasi menggunakan API Key & Token
 
 2. **Data Preprocessing**
